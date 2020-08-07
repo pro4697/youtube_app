@@ -1,4 +1,4 @@
-export const USER_SERVER = 'http://13.125.21.178:5000';
+export const USER_SERVER = 'http://...:5000';
 
 //////////////////////////// For Header Configs //////////////////////////////////
 const config = {
