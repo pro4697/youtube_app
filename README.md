@@ -9,7 +9,8 @@
 -   Node JS
 
 ### Library
-- ant-design (https://github.com/ant-design/ant-design/) 
+-   ant-design (https://github.com/ant-design/ant-design/) 
+-   ffmpeg
 
 ### etc
 -   mongoDB 사용
